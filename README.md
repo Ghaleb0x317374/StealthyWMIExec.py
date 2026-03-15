@@ -1,7 +1,7 @@
 # StealthyWMIExec.py
 A stealthier approach to WMI-based command execution using Impacket without touching the disk.
 
-![[StealthyWMIExec.png]]
+![StealthyWMIExec](StealthyWMIExec.png)
 
 ```bash
 sudo python3 StealthyWMIExec.py "domain/user:password@target" 'command' -smbIP SMBserver -hashes ":NTHash"
