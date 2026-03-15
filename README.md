@@ -1,5 +1,7 @@
 # StealthyWMIExec.py
 A stealthier approach to WMI-based command execution using Impacket without touching the disk.
+basid on my blog [Stealthy WMI lateral movement - StealthyWMIExec.py](https://ghaleb0x317374.github.io/2026/03/15/Stealthy-WMI-lateral-movement-StealthyWMIExec.py.html)
+
 
 ![StealthyWMIExec](StealthyWMIExec.png)
 
